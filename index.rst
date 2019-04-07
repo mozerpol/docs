@@ -6,10 +6,6 @@
 Welcome to DronePG's documentation!
 ===================================
 
-Here is some text explaining some very  stuff.::
-
-	print 'hello'
-	>> hello
 
 Guide
 ^^^^^
@@ -18,7 +14,7 @@ Guide
    :maxdepth: 2
    
    lidar
-   licence
+   licence 
 
 
 
