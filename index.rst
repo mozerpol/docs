@@ -10,11 +10,12 @@ Welcome to DronePG's documentation!
 Guide
 ^^^^^
 
-.. toctree::
-   :maxdepth: 2
-   
-   lidar
-   licence 
+..  toctree::
+    :maxdepth: 2
+
+    safedam
+    lidar
+    licence
 
 
 
