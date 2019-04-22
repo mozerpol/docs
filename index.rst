@@ -14,6 +14,7 @@ Guide
     :maxdepth: 2
 
     safedam
+    embankment
     lidar
     licence
 

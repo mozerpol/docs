@@ -1,5 +1,19 @@
 SAFEDAM
 =======
+.. note::
+    Safedam jest to system który kompleksowo podchodzi do problemu.
+    Ma o wiele więcej ludzi zangarzowanych w problem. 
+    Dlatego nie powinniśmy czuć się zniechęceni, widząc, ze realizujemy tylko podsystem ich całego projektu.
+
+W skład konsorcjum SAFEDAM wchodzi:
+ - Wydział Geodezji i Kartografii
+ - Instytut Meteorologii i Gospodarki Wodnej
+ - Astri Polska Sp. z o.o.
+ - Szender Marcin MSP (firma od której mają drona i samolot)
+ - Centralna Szkoła Państwowej Straży Pożarnej
+
+.. note::
+    Jak widać część informatyczna nie jest tutaj zupełnie uwzględniona, wniosek płynący z tego jest taki ze programiści są jedynie i az odpowiedzialni za implementacje rozwiązań, które tworzą powyższe podmioty. 
 
 Tryb prewencyjny
 ^^^^^^^^^^^^^^^^
@@ -69,7 +83,18 @@ Wyposażenie celowe:
  - głowica skanująca (LIDAR) `Yellowscan Surveyor <https://www.yellowscan-lidar.com/products/yellowscan-surveyor>`_
  - wyposażenie dostosowane do wymagań klienta
 
+Wykorzystanie danych z LiDARu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Wczesne wykrycie :ref:`uszkodzeń <enbarkment>`, a szczególnie zmiany geometrii wałów, a tym samym identyfikacja potencjalnych uszkodzeń, daje możliwość szybkiej reakcji w postaci zabezpieczenia lub modernizacji zagrożonego odcinka. Ponadto znajomość precyzyjnych danych wysokościowych, z dokładnością poniżej decymetra, usprawnia zarządzanie akcją ratowniczą, a przede wszystkim pozwala na oszacowanie zagrożenia związanego z przelaniem się wody przez korpus wału (poprzez oszacowanie różnicy wysokości zwierciadła wody do korony wału). Wykrywanie potencjalnych uszkodzeń wału może odbywać się na pojedynczej serii danych pomiarowych (wówczas analizie podlegają wykryte anomalie terenu rozumiane jako zaburzenia struktury wałów) lub na podstawie detekcji zmian terenu w czasie. Aby wykonać model identyfikujący zaistniałe różnice, a wykonane analizy były miarodajne, należy opracować jednoznaczne kryteria i parametry związane z generowaniem NMT, tj. określić optymalną rozdzielczość, rekomendowaną metodę interpolacji etc.
+
+Metodyka
+^^^^^^^^
+
+
+
 .. _ISOK: https://isokmapy.kzgw.gov.pl/imap_rzgw/Imgp.html
 .. _CMPiS: 
 .. _NEO3: https://uav.com.pl/pl/co-robimy/bsl/neo3
 .. _ZAWISAK: https://uav.com.pl/pl/co-robimy/bsl/zawisak
+
