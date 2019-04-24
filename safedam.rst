@@ -1,5 +1,10 @@
 SAFEDAM
 =======
+
+Projekt safedam realizuje temat:
+*Zaawansowane technologie wspomagające przeciwdziałanie zagrożeniom związanym z powodziami*
+Projekt jest finansowany ze środków NCBR, czyli te same finansowanie co Excento.
+
 .. note::
     Safedam jest to system który kompleksowo podchodzi do problemu.
     Ma o wiele więcej ludzi zangarzowanych w problem. 
