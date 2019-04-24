@@ -36,7 +36,7 @@ pozwala na generowanie ortofotomap o wysokiej rozdzielczości. Połączenie dwó
 
 płatowiec NEO3_ produkcji firmy MSP.
 
-.. image:: images/neo3.png
+.. image:: images/neo3.jpg
 
 Masa: 
  - masa startowa: 12 kg (wersja fotogrametryczna)
@@ -71,7 +71,7 @@ W przypadku zaistnienia zagrożenia system przechodzi w tryb interwencyjny, poma
 
 W wyborze platformy w wersji interwencyjnej kierowano się przede wszystkim dyspozycyjnością i łatwością operowania nią oraz jak najszybszą możliwością przesyłania danych w czasie rzeczywistym. Te wymagania spełnia platforma typu wielowirnikowiec, którą jest udoskonalana obecnie wersja maszyny ZAWISAK_ produkcji firmy MSP. Platforma jest wyposażona w głowicę obserwacyjną w zakresie optycznym i termalnym, co umożliwi ciągły monitoring akcji również w warunkach nocnych.
 
-.. image:: images/zawisak.png
+.. image:: images/zawisak.jpg
 
 Masy:
  - masa pustego wielowirnikowca: 8,5 kg
@@ -97,6 +97,33 @@ Metodyka
 ^^^^^^^^
 
 
+
+
+System SAFEDAM
+^^^^^^^^^^^^^^
+Symulacja lustra wody
+
+.. image:: images/symulacja_lustra_wody.jpg
+
+Tryb prewencyjny systemu wykorzystywany jest do monitorowania i zarządzania wałami przeciwpowodziowymi, słuy do oceny stanu wałów i określania iceny wtstąpienia awarii na wale.
+
+.. image:: images/tryb_prewencyjny.jpg
+
+Podgląd na zywo
+
+.. image:: images/live_wideo.jpg
+
+Mają takie fajne piloty do sterowania kamerą na dronie
+
+.. image:: images/controller.jpg
+
+Kamera na podczerwien
+
+.. image:: images/infrared_camera.jpg
+
+Szacunek u strazaków
+
+.. image:: images/respect.jpg
 
 .. _ISOK: https://isokmapy.kzgw.gov.pl/imap_rzgw/Imgp.html
 .. _CMPiS: 
