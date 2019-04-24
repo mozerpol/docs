@@ -8,12 +8,12 @@ SAFEDAM
 W skład konsorcjum SAFEDAM wchodzi:
  - Wydział Geodezji i Kartografii
  - Instytut Meteorologii i Gospodarki Wodnej
- - Astri Polska Sp. z o.o.
+ - Astri Polska Sp. z o.o.(firma odpowiedzialna za integrację systemów IT)
  - Szender Marcin MSP (firma od której mają drona i samolot)
  - Centralna Szkoła Państwowej Straży Pożarnej
 
 .. note::
-    Jak widać część informatyczna nie jest tutaj zupełnie uwzględniona, wniosek płynący z tego jest taki ze programiści są jedynie i az odpowiedzialni za implementacje rozwiązań, które tworzą powyższe podmioty. 
+    Jak widać część informatyczna nie jest dziedziną dominującą nad tym problemem, wniosek płynący z tego jest taki ze programiści są jedynie odpowiedzialni za implementacje rozwiązań, które tworzą powyższe podmioty. 
 
 Tryb prewencyjny
 ^^^^^^^^^^^^^^^^
