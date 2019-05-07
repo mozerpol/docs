@@ -1,5 +1,6 @@
 site_name: DronePG
 theme: readthedocs
+repo_url: https://github.com/dronepg/docs/
 markdown_extensions:
   - admonition
   - toc:
