@@ -4,13 +4,11 @@ markdown_extensions:
   - admonition
   - toc:
         permalink: "#"
+        baselevel: 2
 nav:
-  - Home: index.md
-  - Questions: questions.md
-  - SAFEDAM: 
-    - SAFEDAM: safedam/safedam.md
-    - NEO3: safedam/neo3.md
-    - ZAWISAK: safedam/zawisak.md
-  - 'Wały Przeciwpowodziowe':
-    - 'Wały Przeciwpowodziowe': levees/levees.md
-    - 'Roślinność': levees/vegetation.md
+  - 'levees.md' 
+  - SAFEDAM:
+    - Projekt: 'safedam/safedam.md'
+    - 'safedam/neo3.md'
+    - 'safedam/zawisak.md'
+  - 'questions.md'

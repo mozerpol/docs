@@ -1,4 +1,4 @@
-#Pytania
+# Pytania
 
 1. Jakie informacje były by najbardziej przydatne od takiego systemu ?
 2. Czy widzi Pan możliwość zakupu takiego sysetmu, czy są na to pieniądze ?
