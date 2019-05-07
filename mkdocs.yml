@@ -1,5 +1,7 @@
 site_name: DronePG
 theme: readthedocs
+markdown_extensions:
+  - admonition
 nav:
   - Home: index.md
-  - About: about.md
+  - SAFEDAM: safedam.md
