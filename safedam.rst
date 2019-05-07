@@ -91,7 +91,15 @@ Wyposażenie celowe:
 Wykorzystanie danych z LiDARu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wczesne wykrycie :ref:`uszkodzeń <enbarkment>`, a szczególnie zmiany geometrii wałów, a tym samym identyfikacja potencjalnych uszkodzeń, daje możliwość szybkiej reakcji w postaci zabezpieczenia lub modernizacji zagrożonego odcinka. Ponadto znajomość precyzyjnych danych wysokościowych, z dokładnością poniżej decymetra, usprawnia zarządzanie akcją ratowniczą, a przede wszystkim pozwala na oszacowanie zagrożenia związanego z przelaniem się wody przez korpus wału (poprzez oszacowanie różnicy wysokości zwierciadła wody do korony wału). Wykrywanie potencjalnych uszkodzeń wału może odbywać się na pojedynczej serii danych pomiarowych (wówczas analizie podlegają wykryte anomalie terenu rozumiane jako zaburzenia struktury wałów) lub na podstawie detekcji zmian terenu w czasie. Aby wykonać model identyfikujący zaistniałe różnice, a wykonane analizy były miarodajne, należy opracować jednoznaczne kryteria i parametry związane z generowaniem NMT, tj. określić optymalną rozdzielczość, rekomendowaną metodę interpolacji etc.
+Wczesne wykrycie :ref:`uszkodzeń <levees>`, a szczególnie zmiany geometrii wałów, a tym samym identyfikacja potencjalnych uszkodzeń, daje możliwość szybkiej reakcji w postaci zabezpieczenia lub modernizacji zagrożonego odcinka. Ponadto znajomość precyzyjnych danych wysokościowych, z dokładnością poniżej decymetra, usprawnia zarządzanie akcją ratowniczą, a przede wszystkim pozwala na oszacowanie zagrożenia związanego z przelaniem się wody przez korpus wału (poprzez oszacowanie różnicy wysokości zwierciadła wody do korony wału). Wykrywanie potencjalnych uszkodzeń wału może odbywać się na pojedynczej serii danych pomiarowych (wówczas analizie podlegają wykryte anomalie terenu rozumiane jako zaburzenia struktury wałów) lub na podstawie detekcji zmian terenu w czasie. Aby wykonać model identyfikujący zaistniałe różnice, a wykonane analizy były miarodajne, należy opracować jednoznaczne kryteria i parametry związane z generowaniem NMT, tj. określić optymalną rozdzielczość, rekomendowaną metodę interpolacji etc.
+
+Wpływ roślinności
+^^^^^^^^^^^^^^^^^
+Generalnie kłamstwem jest, ze wysoka trawa nie ma wpływu na jakikolwiek lidar... zawsze jakiś jest. Kwestia jest tylko taka czy plamka jest na tyle mała lub trawa na tyle rzadka, żeby co któryś puls dotarł do gruntu. W wielowirnikowcu chmura ULS jest bardzo gęsta, dlatego tez i dane są dobre.
+
+Ostatecznie w systemie SAFEDAM z lidara korzystamy na płatowcu, bo jest bardziej wydajny, ale niestety gęstość jest dużo mniejsza stąd i wpływ może być mniejszy. Generalnie zalecenia pozyskiwania danych mówią o wiośnie i jesienie (jak w fotogrametrii i teledetekcji dla celów geodezyjnych - tu się nic nie zmienia).
+
+
 
 Metodyka
 ^^^^^^^^
@@ -129,4 +137,5 @@ Szacunek u strazaków
 .. _CMPiS: 
 .. _NEO3: https://uav.com.pl/pl/co-robimy/bsl/neo3
 .. _ZAWISAK: https://uav.com.pl/pl/co-robimy/bsl/zawisak
+.. _`Accuracy Assesment`: https://www.mdpi.com/2220-9964/7/9/342
 
