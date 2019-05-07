@@ -35,10 +35,8 @@ Dodatkowo SAFEDAM zaadresował problem [roślinności](vegetation.md) która por
 
 System SAFEDAM zaproponował 2 tryby działania swojego systemu
 
-1. Tryb prewencyjny
-2. Tryb interwencyjny
-
-
+1. [Tryb prewencyjny](#tryb-prewencyjny)
+2. [Tryb interwencyjny](#tryb-interwencyjny)
 
 ## Tryb prewencyjny
 
@@ -62,7 +60,7 @@ Do trybu prewencyjnego zastosowano UAV typu
 
 ###Płatowiec [NEO3](https://uav.com.pl/pl/co-robimy/bsl/neo3) produkcji firmy [MSP](https://uav.com.pl/pl).
 
-![NEO3](images/neo3.jpg)
+![NEO3](/images/neo3.jpg)
 
 
 
@@ -121,27 +119,27 @@ W wyborze platformy w wersji interwencyjnej kierowano się przede wszystkim dysp
 
 Masy:
 
- \- masa pustego wielowirnikowca: 8,5 kg
+- masa pustego wielowirnikowca: 8,5 kg
 
- \- maksymalna masa płatna: 4 kg
+- maksymalna masa płatna: 4 kg
 
- \- maksymalna masa startowa: 16 kg
+- maksymalna masa startowa: 16 kg
 
 Prędkości:
 
- \- typowa prędkość lotu: 5 m/s
+- typowa prędkość lotu: 5 m/s
 
- \- maksymalna prędkość lotu: 12,5 m/s
+- maksymalna prędkość lotu: 12,5 m/s
 
 Wyposażenie celowe:
 
- \- stabilizowana głowica obserwacyjna
+- stabilizowana głowica obserwacyjna
 
- \- głowica fotogrametryczna [RGB Sony a6000](https://www.dxomark.com/Cameras/Sony/A6000---Specifications)
+- głowica fotogrametryczna [RGB Sony a6000](https://www.dxomark.com/Cameras/Sony/A6000---Specifications)
 
- \- głowica skanująca (LIDAR) [Yellowscan Surveyor](https://www.yellowscan-lidar.com/products/yellowscan-surveyor) 
+- głowica skanująca (LIDAR) [Yellowscan Surveyor](https://www.yellowscan-lidar.com/products/yellowscan-surveyor) 
 
- \- wyposażenie dostosowane do wymagań klienta
+- wyposażenie dostosowane do wymagań klienta
 
 
 
