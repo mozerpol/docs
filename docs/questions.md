@@ -5,3 +5,4 @@
 3. Co Pan wie o SAFEDAM ?
 4. Czy sama geometraia jest przydatna ?
 5. Czy wykonywanie takich badań cześciej niż raz do roku było by przydatne ?
+6. Czy bardziej zależy na trybie prewencyjnym czy interwencyjnym ?
