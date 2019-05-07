@@ -2,3 +2,15 @@ site_name: DronePG
 theme: readthedocs
 markdown_extensions:
   - admonition
+  - toc:
+        permalink: "#"
+nav:
+  - Home: index.md
+  - Questions: questions.md
+  - SAFEDAM: 
+    - SAFEDAM: safedam/safedam.md
+    - NEO3: safedam/neo3.md
+    - ZAWISAK: safedam/zawisak.md
+  - 'Wały Przeciwpowodziowe':
+    - 'Wały Przeciwpowodziowe': levees/levees.md
+    - 'Roślinność': levees/vegetation.md

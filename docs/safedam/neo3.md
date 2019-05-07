@@ -2,7 +2,7 @@
 
 Płatowiec [NEO3](https://uav.com.pl/pl/co-robimy/bsl/neo3) produkcji firmy [MSP](https://uav.com.pl/pl).
 
-![NEO3](images/neo3.jpg)
+![NEO3](../images/neo3.jpg)
 
 
 

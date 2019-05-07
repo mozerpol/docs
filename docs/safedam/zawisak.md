@@ -2,7 +2,7 @@
 
 Wielowirnikowiec [ZAWISAK](https://uav.com.pl/pl/co-robimy/bsl/zawisak) produkcji firmy [MSP](https://uav.com.pl/pl)
 
-![ZAWISAK](images/zawisak.jpg)
+![ZAWISAK](../images/zawisak.jpg)
 
 ## Specyfikacja
 
