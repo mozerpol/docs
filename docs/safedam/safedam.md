@@ -52,9 +52,7 @@ W tym trybie platforma pozwala na:
 
 5. W przypadku identyfikacji obszarów zagrożenia, przekazywana jest informacja do Centrum Modelowania Powodzi i Suszy [CMPiS](http://baltyk.pogodynka.pl/index.php?page=2&subpage=59) w celu aktualizacji map zagroenia przeciwpowodziowego. 
 
-W trybie prewencyjnym system nastawiony jest na badanie obwałowań oraz ruchu mas gruntu przy normalnym stanie wód. Ze względu na potrzebę szybkiego pomiaru dużego obszaru, zdecydowano o zastosowaniu bezzałogowego samolotu fotogrametrycznego, przystosowanego do przenoszenia skanera laserowego - LIDAR. Został on wyposażona w ultralekki skaner laserowy, dwie cyfrowe kamery kadrowe o dużej rozdzielczości, obrazujące w zakresie RGB i NIR i dostarczające wysokiej jakości obrazy z pikselem kilkucentymetrowym, co
-
-pozwala na generowanie ortofotomap o wysokiej rozdzielczości. Połączenie dwóch takich samych kamer, z czego jedna rejestruje wyłącznie NIR, daje z kolei możliwość analiz danych wielospektralnych.
+W trybie prewencyjnym system nastawiony jest na badanie obwałowań oraz ruchu mas gruntu przy normalnym stanie wód. Ze względu na potrzebę szybkiego pomiaru dużego obszaru, zdecydowano o zastosowaniu bezzałogowego samolotu fotogrametrycznego, przystosowanego do przenoszenia skanera laserowego - LIDAR. Został on wyposażona w ultralekki skaner laserowy, dwie cyfrowe kamery kadrowe o dużej rozdzielczości, obrazujące w zakresie RGB i NIR i dostarczające wysokiej jakości obrazy z pikselem kilkucentymetrowym, co pozwala na generowanie ortofotomap o wysokiej rozdzielczości. Połączenie dwóch takich samych kamer, z czego jedna rejestruje wyłącznie NIR, daje z kolei możliwość analiz danych wielospektralnych. 
 
 Do trybu prewencyjnego zastosowano UAV typu płatowiec NEO3 firmy MPS, więcej informacji w rozdziale poświęconym tej konstrukcji.
 
