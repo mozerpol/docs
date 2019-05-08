@@ -7,7 +7,9 @@ markdown_extensions:
         permalink: "#"
         baselevel: 2
 nav:
-  - 'levees.md' 
+  - 'levees.md'
+  - 'photogrammetry.md'
+  - 'lidar.md' 
   - SAFEDAM:
     - Projekt: 'safedam/safedam.md'
     - 'safedam/neo3.md'

@@ -1,4 +1,4 @@
-#Fotogrametria 
+# Fotogrametria 
 
 Wiki: dziedzina nauki i techniki zajmująca się odtwarzaniem kształtów, rozmiarów i wzajemnego położenia obiektów w terenie na podstawie zdjęć fotogrametrycznych (fotogramów).
 
