@@ -60,10 +60,13 @@ Firma Applanix oferuje kilka wersji swoich produktów.
   
   -  Bardzo wydajny z podwójnym układem IMU
   
-- POSPac UAV
+- [POSPac UAV](https://www.applanix.com/products/pospac-mms.htm)
   
   - Oprogramowanie które zbiera wszystkie dane i tworzy bardzo dokładną bezpośrednią georeferencje do dalszych obliczeń (np. określenia dokładnej lokalizacji punktów zebranych przez LiDAR)
   
   
   
   [Dokumnatacja techniczna](https://www.applanix.com/products/trimble-ap.htm?utm_source=trimble)
+
+https://youtu.be/op39OU0H5fg
+
