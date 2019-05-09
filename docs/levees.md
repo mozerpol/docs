@@ -22,7 +22,7 @@ Ze względów na swoją genezę, uszkodzenia wałów dzielą się na sześć gł
 
 
 
-# Roślinność
+## Roślinność
 
 Generalnie kłamstwem jest, ze wysoka trawa nie ma wpływu na jakikolwiek lidar... zawsze jakiś jest. Kwestia jest tylko taka czy plamka jest na tyle mała lub trawa na tyle rzadka, żeby co któryś puls dotarł do gruntu. W wielowirnikowcu chmura ULS jest bardzo gęsta, dlatego tez i dane są dobre.
 

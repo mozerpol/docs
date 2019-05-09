@@ -8,8 +8,13 @@ markdown_extensions:
         baselevel: 2
 nav:
   - 'levees.md'
-  - 'photogrammetry.md'
-  - 'lidar.md' 
+  - 'Teoria':
+    - 'dem/nmt.md'
+    - 'dem/lidar.md'
+    - 'dem/photogrammetry.md'
+    - 'dem/comparasion.md'
+    - 'dem/yellowscan.md'
+    - 'dem/applanix.md'      
   - SAFEDAM:
     - Projekt: 'safedam/safedam.md'
     - 'safedam/neo3.md'
