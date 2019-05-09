@@ -7,3 +7,4 @@
 5. Czy wykonywanie takich badań cześciej niż raz do roku było by przydatne ?
 6. Czy bardziej zależy na trybie prewencyjnym czy interwencyjnym ?
 7. Czy dane termalne mogą okazać się przydatne ? Temperatura podmokłego terenu jest niższa niż suchego
+8. Czy IMGW było by zainteresowaniem zakupu takiego systemu ? Jeśli tak to w jakim modelu ?
